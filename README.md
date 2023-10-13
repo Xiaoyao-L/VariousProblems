@@ -7,3 +7,5 @@
 
 关于Jave中Runtime类部分shell命令无效的情况，[处理方法](https://blog.csdn.net/educast/article/details/96307325)
 
+关于程序运行占用CPU过多如何定位的问题，[处理方法](https://blog.51cto.com/zhangzhixi/3175474)
+
